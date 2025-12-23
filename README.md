@@ -8,7 +8,7 @@ For further details, please refer to our [Apo2Mol](https://arxiv.org/abs/2511.14
 ## Updates
 
 - [x] [2025-11] Apo2Mol has been accepted by AAAI 2026, congratulations!🎉
-- [ ] Apo2Mol Dataset: Coming soon
+- [x] [2025-12] [Apo2Mol Dataset](https://huggingface.co/datasets/AIDD-LiLab/Apo2Mol_Dataset) has been released on Hugging Face!
 - [ ] Apo2Mol Code: Scheduled for release after the conference
 
 ## Citation
