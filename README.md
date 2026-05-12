@@ -11,8 +11,8 @@
 
 For full methodological details, please refer to the paper:
 > **Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models**
-> Xinzhe Zheng, Shiyu Jiang, Gustavo Seabra, Chenglong Li, Yanjun Li
-> *AAAI 2026* · [arXiv:2511.14559](https://arxiv.org/abs/2511.14559)
+> Xinzhe Zheng, Shiyu Jiang, Gustavo Seabra, Chenglong Li, Yanjun Li.
+> *AAAI 2026* · [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/37138)
 
 ![Apo2Mol Overview](photo/apo2mol_overview.png)
 
@@ -30,7 +30,7 @@ For full methodological details, please refer to the paper:
 
 ## 1. Environment Setup
 
-Apo2Mol uses the **PyTorch Lightning** + **Hydra** + **Weights & Biases (W&B)** ecosystem. Training on 4 × NVIDIA H100 (80 GB) GPUs takes approximately 12 hours.
+Apo2Mol uses the **PyTorch Lightning** + **Hydra** + **Weights & Biases (W&B)** ecosystem.
 
 ```bash
 bash install_env.sh
@@ -111,9 +111,12 @@ If you find Apo2Mol useful in your research, please cite:
 
 ```bibtex
 @inproceedings{zheng2026apo2mol,
-  title={Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models},
+  title={Apo2Mol: 3D molecule generation via dynamic pocket-aware diffusion models},
   author={Zheng, Xinzhe and Jiang, Shiyu and Seabra, Gustavo and Li, Chenglong and Li, Yanjun},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={2},
+  pages={1614--1622},
   year={2026}
 }
 ```
