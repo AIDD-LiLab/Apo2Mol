@@ -1,9 +1,9 @@
 # Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2511.14559"><img src="https://img.shields.io/badge/arXiv-2511.14559-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37138"><img src="https://img.shields.io/badge/AAAI-2026-blue.svg" alt="AAAI 2026"></a>
   <a href="https://huggingface.co/datasets/AIDD-LiLab/Apo2Mol_Dataset"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg" alt="Dataset"></a>
-  <a href="https://aaai.org/conference/aaai/aaai-26/"><img src="https://img.shields.io/badge/AAAI-2026-blue.svg" alt="AAAI 2026"></a>
+  <a href="https://arxiv.org/abs/2511.14559"><img src="https://img.shields.io/badge/arXiv-2511.14559-b31b1b.svg" alt="arXiv"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
 </p>
 
