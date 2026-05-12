@@ -1,0 +1,6 @@
+wandb:
+  wandb_key: 
+  wandb_entity: 
+  wandb_project: Molecular
+  wandb_task: apo2mol-plinder
+  wandb_status: online # [offline, online, disabled]
